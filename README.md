@@ -7,7 +7,9 @@ Employee attrition, or churn, refers to the reduction in a company’s workforce
 This project leverages the IBM HR Analytics Employee Attrition & Performance dataset to analyze patterns in employee attrition and build predictive models.
 
 ## Repository Structure
-
+- ANALYZING EMPLOYEE ATTRITION.pdf: Business presentation summarizing key findings and potential business impact
+- Attrition.ipynb: Main analysis performed in Google Colab
+- README.md: Project documentation (this file)
 
 ## Dataset
 The dataset used in this project is IBM HR Analytics Employee Attrition & Performance, available on [Kaggle](https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset). It consists of 1470 employees and 35 attributes, including demographic and job-related features.
